@@ -1,0 +1,20 @@
+Which of the following keywords is used to define a function in Python?|def|func|function|define|def
+What is the output of print(2**3)?|6|8|9|3|8
+Which of these is a valid variable name in Python?|2name|name_2|for|@name|name_2
+What is the correct file extension for Python files?|.pyth|.pt|.py|.pyt|.py
+Which operator is used for string concatenation in Python?|&|+||||-|+
+How do you insert comments in Python code?|// comment|# comment|/* comment */|-- comment|# comment
+Which built-in function is used to get the length of a string?|size()|count()|len()|length()|len()
+What is the output of print(type(5))?|<class 'string'>|<class 'float'>|<class 'int'>|<class 'bool'>|<class 'int'>
+Which of the following is NOT a Python data type?|float|int|real|bool|real
+What will print("Hello"[0]) display?|H|e|l|o|H
+How do you start a for loop in Python?|for (i=0; i<n; i++)|for i to n:|for i in range(n):|for each i in n|for i in range(n):
+Which of the following is used to create a list in Python?|{}|"list"|[]|()|[]
+Which method can be used to remove whitespace from the beginning and end of a string?|strip()|split()|trim()|replace()|strip()
+How are code blocks defined in Python?|Braces|Indentation|Parentheses|Quotation marks|Indentation
+What does the 'break' statement do in a loop?|Ends the program|Skips iteration|Stops current loop|Continues loop|Stops current loop
+Which function can be used to get user input in Python?|get()|input()|scan()|read()|input()
+How do you import a module named math?|require(math)|import math|load math|using math|import math
+Which of the following returns integer division in Python?|/|//|%|div|//
+What is the output of print(9 // 2)?|4.5|4|5|9|4
+Which function converts a string to an integer in Python?|int()|str()|float()|convert()|int()

@@ -1,0 +1,11 @@
+Which of the following is a linear data structure?|(A) Array|(B) AVL Trees|(C) Binary Trees|(D) Graphs|(A) Array
+Which of the following is not the type of queue?|Priority queue|Single-ended queue|Circular queue|Ordinary queue|Single-ended queue
+From following which is not the operation of data structure?|Operations that manipulate data in some way|Operations that perform a computation|Operations that check for syntax errors|Operations that monitor an object for the occurrence of a controlling event|Operations that manipulate data in some way
+What is the disadvantage of array data structure?|The amount of memory to be allocated should be known beforehand.|Elements of an array can be accessed in constant time.|Elements are stored in contiguous memory blocks.|Multiple other data structures can be implemented using arrays.|The amount of memory to be allocated should be known beforehand.
+When a pop() operation is called on an empty queue, what is the condition called?|Overflow|Underflow|Syntax Error|Garbage Value|Underflow
+Which of the following data structures can be used to implement queues?|Stack|Arrays|LinkedList|All of the Above|All of the Above
+Which of the following data structures finds its use in recursion?|Stack|Arrays|LinkedList|Queues|Stack
+Which of the following data structures allow insertion and deletion from both ends?|Stack|Deque|Queue|Strings|Deque
+Which of the following sorting algorithms provide the best time complexity in the worst-case scenario?|Merge Sort|Quick Sort|Bubble Sort|Selection Sort|Merge Sort
+Which of the following is a Divide and Conquer algorithm?|Bubble Sort|Selection Sort|Heap Sort|Merge Sort|Merge Sort
+
